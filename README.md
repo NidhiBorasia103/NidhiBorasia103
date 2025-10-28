@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nidhi Borasia
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning data analytics.
 - 📫 How to reach me... >> Email me at nborasia@gmail.com
 
 <!---
